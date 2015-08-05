@@ -18,3 +18,7 @@ Branches are useful to experiment with alternative versions of a program (easy m
 maybe the "bass clef" version of LMP). Also useful for trying out experimental versions that may or may not
 end up as production code. Well-named branches can help track a programmer's thought process through several
 revisions.
+
+How do the diagrams help you visualize the branch structure?
+Same way diagrams help me visualize anything. But this is a nice example of a
+graphing application.
