@@ -1,0 +1,5 @@
+Lesson 2 reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+git init causes hidden directory .git, with metafiles describing contents of directory,
+to be created. This allows me to do commits & generally use git on this folder.

@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Made it easier to spot - rather than being one line in thousands, there was
+	one line out of a few. It's a matter of finding a needle in a much smaller
+	haystack.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could save time by just saving often rather than using comments as a crude
+	form of version control - I tend to comment rather than erasing so that previous
+	"versions" of a program are never lost. On large programs, all the irrelevant 
+	commented code can lead to confusion. Not sure I'm ready to completely throw
+	caution to the wind, though.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro: user control means commits are probably rational
+	Con: never underestimate the irrationality of the user! Just because I
+	should save, doesn't mean I will.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Seems like a no-brainer; git is programmer-oriented, many others aren't. In
+	programming interrelated files are the norm rather than the exception.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lists all changes, with unique id for each commit. With the addition
+	of meaningful comment, can make guesses as to what happened between commits; 
+	git diff lets me drill down and see actual lines of code changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Knowing I can always go back to a working version means that I can be fearless
+	in making changes. This would be great for my students!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For starters, I am going to use it for the many versions of "LMP" I have
+	hanging around - and the same for "Iowa Waltz."
