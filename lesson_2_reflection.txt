@@ -22,3 +22,14 @@ revisions.
 How do the diagrams help you visualize the branch structure?
 Same way diagrams help me visualize anything. But this is a nice example of a
 graphing application.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+So, merging branches brings together the changes made in two different branches since the common commit.
+That's if it works, which mine didn't. I suspect an editor conflict issue, but don't want to keep beating this
+particular dead horse!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+So really, it's mostly pros: conflicts have to be resolved by programmer(s) if they're
+going to be reliable in the long run. Con: pain in the ass, just like most things. BTW,
+with forum help was able to figure out the problem with coin/master merge - needed to get
+rid of extra code that was no longer needed (had been superceded by a function).
